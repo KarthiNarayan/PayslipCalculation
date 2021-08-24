@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayslipGenerator.Api", "PayslipGenerator.Api.csproj", "{FB982BBC-AF2D-42E1-A7BA-BB6092B7BADD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayslipGenerator.Domain", "..\PayslipGenerator.Domain\PayslipGenerator.Domain.csproj", "{2BFDC19B-9C0D-4C1E-8EF1-318576635657}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayslipGenerator.Service", "..\PayslipGenerator.Service\PayslipGenerator.Service.csproj", "{72A3A4E4-FCD4-4C11-8B61-9748B9D7761B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayslipGenerator.Interfaces", "..\PayslipGenerator.Interfaces\PayslipGenerator.Interfaces.csproj", "{BC970682-4BC1-41CC-A3CA-400B7191849E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayslipGenerator.Repository", "..\PayslipGenerator.Repository\PayslipGenerator.Repository.csproj", "{447851EA-92FD-4E6E-BB8D-8F7D33FC7EE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayslipGeneratorConsole", "..\PayslipGeneratorConsole\PayslipGeneratorConsole.csproj", "{2766CFEB-7CA8-4D1C-B69A-293C8D0DF367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayslipGenerator.Test", "..\PayslipGenerator.Test\PayslipGenerator.Test.csproj", "{2C624256-7823-4DFE-8D65-18FE1BA0F538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB982BBC-AF2D-42E1-A7BA-BB6092B7BADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB982BBC-AF2D-42E1-A7BA-BB6092B7BADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB982BBC-AF2D-42E1-A7BA-BB6092B7BADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB982BBC-AF2D-42E1-A7BA-BB6092B7BADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BFDC19B-9C0D-4C1E-8EF1-318576635657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFDC19B-9C0D-4C1E-8EF1-318576635657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFDC19B-9C0D-4C1E-8EF1-318576635657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFDC19B-9C0D-4C1E-8EF1-318576635657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A3A4E4-FCD4-4C11-8B61-9748B9D7761B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A3A4E4-FCD4-4C11-8B61-9748B9D7761B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A3A4E4-FCD4-4C11-8B61-9748B9D7761B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A3A4E4-FCD4-4C11-8B61-9748B9D7761B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC970682-4BC1-41CC-A3CA-400B7191849E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC970682-4BC1-41CC-A3CA-400B7191849E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC970682-4BC1-41CC-A3CA-400B7191849E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC970682-4BC1-41CC-A3CA-400B7191849E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447851EA-92FD-4E6E-BB8D-8F7D33FC7EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447851EA-92FD-4E6E-BB8D-8F7D33FC7EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447851EA-92FD-4E6E-BB8D-8F7D33FC7EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447851EA-92FD-4E6E-BB8D-8F7D33FC7EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2766CFEB-7CA8-4D1C-B69A-293C8D0DF367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2766CFEB-7CA8-4D1C-B69A-293C8D0DF367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2766CFEB-7CA8-4D1C-B69A-293C8D0DF367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2766CFEB-7CA8-4D1C-B69A-293C8D0DF367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C624256-7823-4DFE-8D65-18FE1BA0F538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C624256-7823-4DFE-8D65-18FE1BA0F538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C624256-7823-4DFE-8D65-18FE1BA0F538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C624256-7823-4DFE-8D65-18FE1BA0F538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C1E22A-DD9D-4F22-AA5C-5D925AC768D1}
+	EndGlobalSection
+EndGlobal

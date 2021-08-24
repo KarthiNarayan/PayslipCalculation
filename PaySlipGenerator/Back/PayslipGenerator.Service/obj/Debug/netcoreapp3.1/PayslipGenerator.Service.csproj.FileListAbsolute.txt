@@ -1,0 +1,16 @@
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Service.deps.json
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Service.dll
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Service.pdb
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\obj\Debug\netcoreapp3.1\PayslipGenerator.Service.csproj.AssemblyReference.cache
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\obj\Debug\netcoreapp3.1\PayslipGenerator.Service.AssemblyInfoInputs.cache
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\obj\Debug\netcoreapp3.1\PayslipGenerator.Service.AssemblyInfo.cs
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\obj\Debug\netcoreapp3.1\PayslipGenerator.Service.csproj.CoreCompileInputs.cache
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\obj\Debug\netcoreapp3.1\PayslipGenerator.Service.dll
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\obj\Debug\netcoreapp3.1\PayslipGenerator.Service.pdb
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.deps.json
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.json
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.dev.json
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.exe
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.dll
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\obj\Debug\netcoreapp3.1\PayslipGenerator.Service.csproj.CopyComplete

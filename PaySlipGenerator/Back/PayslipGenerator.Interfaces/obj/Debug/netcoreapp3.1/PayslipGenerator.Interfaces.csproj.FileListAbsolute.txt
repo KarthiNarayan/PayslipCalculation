@@ -1,0 +1,13 @@
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.exe
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.deps.json
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.json
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.dev.json
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.dll
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.csproj.AssemblyReference.cache
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.AssemblyInfoInputs.cache
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.AssemblyInfo.cs
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.csproj.CoreCompileInputs.cache
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.dll
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
+E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.genruntimeconfig.cache

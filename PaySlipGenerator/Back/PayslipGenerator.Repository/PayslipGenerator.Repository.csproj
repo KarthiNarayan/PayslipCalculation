@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PayslipGenerator.Domain\PayslipGenerator.Domain.csproj" />
+    <ProjectReference Include="..\PayslipGenerator.Interfaces\PayslipGenerator.Interfaces.csproj" />
+    <ProjectReference Include="..\PayslipGenerator.Service\PayslipGenerator.Service.csproj" />
+  </ItemGroup>
+
+</Project>
