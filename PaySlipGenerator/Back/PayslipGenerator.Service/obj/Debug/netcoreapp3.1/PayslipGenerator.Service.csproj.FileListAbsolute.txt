@@ -14,10 +14,6 @@ E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\n
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.dll
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Service\obj\Debug\netcoreapp3.1\PayslipGenerator.Service.csproj.CopyComplete
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.deps.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.dev.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.exe
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Service.deps.json
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Service.dll
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Service\bin\Debug\netcoreapp3.1\PayslipGenerator.Service.pdb

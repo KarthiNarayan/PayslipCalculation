@@ -44,14 +44,6 @@ C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Bac
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.dll
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.pdb
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.deps.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.dev.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.exe
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.deps.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.runtimeconfig.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.runtimeconfig.dev.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.exe
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Api.exe

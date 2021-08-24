@@ -22,14 +22,6 @@ E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Repository\bin\Debu
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Repository\obj\Debug\netcoreapp3.1\PayslipGenerator.Repository.csproj.CopyComplete
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Repository\obj\Debug\netcoreapp3.1\PayslipGenerator.Repository.dll
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Repository\obj\Debug\netcoreapp3.1\PayslipGenerator.Repository.pdb
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Repository\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.deps.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Repository\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.runtimeconfig.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Repository\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.runtimeconfig.dev.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Repository\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.deps.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Repository\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Repository\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.dev.json
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Repository\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.exe
-C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Repository\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.exe
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Repository\bin\Debug\netcoreapp3.1\PayslipGenerator.Repository.deps.json
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Repository\bin\Debug\netcoreapp3.1\PayslipGenerator.Repository.dll
 C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Repository\bin\Debug\netcoreapp3.1\PayslipGenerator.Repository.pdb
