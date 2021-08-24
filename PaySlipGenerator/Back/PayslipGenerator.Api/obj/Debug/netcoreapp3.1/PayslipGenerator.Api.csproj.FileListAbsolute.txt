@@ -37,3 +37,44 @@ E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Api\bin\Debug\netco
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.MvcApplicationPartsAssemblyInfo.cache
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.genruntimeconfig.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.csproj.AssemblyReference.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.AssemblyInfoInputs.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.AssemblyInfo.cs
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.csproj.CoreCompileInputs.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.deps.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.dev.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.exe
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.deps.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.runtimeconfig.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.runtimeconfig.dev.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.exe
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Api.exe
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Api.deps.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Api.runtimeconfig.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Api.runtimeconfig.dev.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Api.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Api.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Repository.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Service.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Repository.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Service.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\staticwebassets\PayslipGenerator.Api.StaticWebAssets.Manifest.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\staticwebassets\PayslipGenerator.Api.StaticWebAssets.xml
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\PayslipGenerator.Api.styles.css
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.RazorTargetAssemblyInfo.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.csproj.CopyComplete
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\obj\Debug\netcoreapp3.1\PayslipGenerator.Api.genruntimeconfig.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\microsoft.identitymodel.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

@@ -1,8 +1,9 @@
-﻿using RestSharp;
+﻿using Newtonsoft.Json;
+using PayslipGenerator.Domain;
+using PayslipGenerator.Interfaces;
+using RestSharp;
 using System;
-using System.Net;
-using System.Net.Http;
-using System.Net.Http.Headers;
+using System.Configuration;
 using System.Threading.Tasks;
 
 namespace PayslipGeneratorConsole
@@ -56,21 +57,12 @@ namespace PayslipGeneratorConsole
                 {
                     try
                     {
-                        //var client = new RestClient("https://localhost:44310/PayslipGenerator/Mark/60000");
-                        //var request = new RestRequest(Method.GET);
-                        //request.AddHeader("postman-token", "d2892d51-4d93-825c-49ab-4096888c4ebf");
-                        //request.AddHeader("cache-control", "no-cache");
-                        //IRestResponse response = client.Execute(request);
-
+                        string baseUrl = ConfigurationManager.AppSettings["url"].ToString();
                        
+                        var client = new RestClient(baseUrl + empName +"/"+annualSalary);
 
-
-                        var client = new RestClient("https://localhost:44310/PayslipGenerator/Mark/80000");
-
-                        var request = new RestRequest(Method.GET);
-                    
-                        //request.AddHeader("postman-token", "2e808013-cc55-dbb8-fb10-9ffc19540fb8");
-                        //request.AddHeader("cache-control", "no-cache");
+                        var request = new RestRequest(Method.GET);                 
+                       //get the response
                         IRestResponse response = client.Get(request);
                         if (!string.IsNullOrEmpty(response.ErrorMessage))
                         {
@@ -78,8 +70,14 @@ namespace PayslipGeneratorConsole
                             cmd = false;
                         }
                         else
-                            Console.WriteLine(response.Content);
+                        {                           
 
+                            var details = JsonConvert.DeserializeObject<PayslipDetailResponse>(response.Content);
+                            //Write the output 
+                            Console.WriteLine($"Gross Monthly Income: { details.GrossMonthlyIncome}");
+                            Console.WriteLine($"Monthly Income Tax: { details.MonthlyIncomeTax}");
+                            Console.WriteLine($"Net Monthly Income: { details.NetMonthlyIncome}");
+                        }
 
                     }
                     catch (ArgumentException exception)

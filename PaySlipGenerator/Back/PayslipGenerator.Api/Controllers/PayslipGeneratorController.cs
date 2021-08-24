@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Microsoft.IdentityModel.SecurityTokenService;
 using PayslipGenerator.Domain;
 using PayslipGenerator.Interfaces;
 using System;
@@ -16,9 +17,11 @@ namespace PayslipGenerator.Api.Controllers
 
         private readonly ILogger<PayslipGeneratorController> _logger;
 
-        
+
         public PayslipGeneratorController(IPayslipService payslipService, ILogger<PayslipGeneratorController> logger)
         {
+            if (payslipService == null || logger == null)
+                throw new ArgumentNullException();
             this._logger = logger;
 
             _payslipService = payslipService;
@@ -30,24 +33,31 @@ namespace PayslipGenerator.Api.Controllers
         [ProducesResponseType(typeof(IPayslipDetailResponse), 200)]
         [ProducesResponseType(400)]
         [ProducesResponseType(404)]
-        public async Task<ActionResult<PayslipDetailResponse>> GetPayDetails(string empName, decimal annualSalary)
+        public ActionResult<PayslipDetailResponse> GetPayDetails(string empName, decimal annualSalary)
         {
+           
+                if (string.IsNullOrEmpty(empName))
+                {
+                    _logger.LogError("Employee name is mandatory");
+                    throw new BadRequestException("Employee name is mandatory");
+                }
+
+                if (annualSalary ==0M ||annualSalary < 0M)
+                {
+                    _logger.LogError($"{nameof(annualSalary)} must not be a negative/Zero decimal, was: {annualSalary}");
+                    throw new BadRequestException("Annual salary must not be negative/Zero");
+                }
             try
             {
-                if (string.IsNullOrEmpty(empName))
-                    _logger.LogError("Employee name is mandatory");
-
-                if (annualSalary < 0M)
-                {
-                    _logger.LogError($"{nameof(annualSalary)} must not be a negative decimal, was: {annualSalary}");
-                }
-                var salaryDetails = _payslipService.GetSalaryDetials(empName, annualSalary);
+                var salaryDetails =  _payslipService.GetSalaryDetials(empName, annualSalary);
 
                 return Ok(salaryDetails);
             }
-            catch
+            catch(Exception ex)
             {
 
+                _logger.LogError("Error occured while processing the request GetPayDetails "+ ex.Message +ex.StackTrace );
+                return Ok(ex.Message);
             }
 
         }

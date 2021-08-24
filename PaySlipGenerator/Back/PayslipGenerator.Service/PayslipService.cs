@@ -3,6 +3,7 @@ using PayslipGenerator.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace PayslipGenerator.Service
 {
@@ -17,10 +18,10 @@ namespace PayslipGenerator.Service
             _payslipRepository = payslipRepository;
            
         }
-
-        public IPayslipDetailResponse GetSalaryDetials(string empName, decimal annualSalary)
+      
+        public IPayslipDetailResponse  GetSalaryDetials(string empName, decimal annualSalary)
         {
-            return _payslipRepository.GetDetails(empName, annualSalary);
+            return  _payslipRepository.GetDetails(empName, annualSalary);
         }
     }
 }

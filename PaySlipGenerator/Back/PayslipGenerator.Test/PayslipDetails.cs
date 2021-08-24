@@ -50,7 +50,7 @@ namespace PayslipGenerator.Test
 		{
 			_payslipController = new PayslipGeneratorController(_mockPayslipServiceMok.Object, _mockPayslipServiceLoggerMok.Object);
 
-			Assert.Throws(typeof(Exception), () => _payslipController.GetPayDetails("", 60000));
+			Assert.Throws(typeof(BadRequestException), () => _payslipController.GetPayDetails("", 60000));
 		}
 
 		[Test]
@@ -64,11 +64,11 @@ namespace PayslipGenerator.Test
 		}
 
 		[Test]
-		public void GIVEN_Get_WHEN_EmpName_AnnualSalry_SHOULD_ReturnCorrectNetValue()
+		public void GIVEN_Get_WHEN_EmpName_AnnualSalry_SHOULD_ReturnCorrectNet()
 		{
 			_payslipController = new PayslipGeneratorController(_mockPayslipServiceMok.Object, _mockPayslipServiceLoggerMok.Object);
 			
-			var details = _payslipService.GetSalaryDetials("Mark", 60000);
+			var details = _payslipController.GetPayDetails("Mark", 60000);
 
 			Assert.That(details != null);
 		}

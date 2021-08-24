@@ -18,3 +18,24 @@ E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Domain\bin\Debug\ne
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.dll
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Domain\obj\Debug\netcoreapp3.1\PayslipGenerator.Domain.csproj.CopyComplete
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\obj\Debug\netcoreapp3.1\PayslipGenerator.Domain.csproj.AssemblyReference.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\obj\Debug\netcoreapp3.1\PayslipGenerator.Domain.AssemblyInfoInputs.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\obj\Debug\netcoreapp3.1\PayslipGenerator.Domain.AssemblyInfo.cs
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\obj\Debug\netcoreapp3.1\PayslipGenerator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\obj\Debug\netcoreapp3.1\PayslipGenerator.Domain.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\obj\Debug\netcoreapp3.1\PayslipGenerator.Domain.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.deps.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.dev.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.exe
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.exe
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.deps.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.runtimeconfig.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.runtimeconfig.dev.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\obj\Debug\netcoreapp3.1\PayslipGenerator.Domain.csproj.CopyComplete
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\obj\Debug\netcoreapp3.1\PayslipGenerator.Domain.genruntimeconfig.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Domain\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

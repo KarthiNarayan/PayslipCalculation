@@ -3,6 +3,7 @@ using PayslipGenerator.Domain;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace PayslipGenerator.Repository
 {
@@ -10,7 +11,7 @@ namespace PayslipGenerator.Repository
     {
         private const int MonthsInYear = 12;
 
-        public IPayslipDetailResponse GetDetails(string empName, decimal annualSalary)
+        public  IPayslipDetailResponse GetDetails(string empName, decimal annualSalary)
         {
 
             //Do the calculation here
@@ -25,7 +26,7 @@ namespace PayslipGenerator.Repository
                 NetMonthlyIncome = Convert.ToDecimal(netMonthlyIncome.ToString("0.##"))
             };
 
-            return details;
+            return  details;
         }
 
         private decimal CalculatedGrossIncome(decimal income)

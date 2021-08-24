@@ -25,3 +25,33 @@ E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGeneratorConsole\bin\Debug\ne
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGeneratorConsole\obj\Debug\netcoreapp3.1\PayslipGeneratorConsole.csproj.CopyComplete
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\obj\Debug\netcoreapp3.1\PayslipGeneratorConsole.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\obj\Debug\netcoreapp3.1\PayslipGeneratorConsole.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGeneratorConsole.exe
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGeneratorConsole.dll.config
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGeneratorConsole.deps.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGeneratorConsole.runtimeconfig.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGeneratorConsole.runtimeconfig.dev.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGeneratorConsole.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGeneratorConsole.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGenerator.Domain.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\obj\Debug\netcoreapp3.1\PayslipGeneratorConsole.csproj.AssemblyReference.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\obj\Debug\netcoreapp3.1\PayslipGeneratorConsole.AssemblyInfoInputs.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\obj\Debug\netcoreapp3.1\PayslipGeneratorConsole.AssemblyInfo.cs
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\obj\Debug\netcoreapp3.1\PayslipGeneratorConsole.csproj.CoreCompileInputs.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\obj\Debug\netcoreapp3.1\PayslipGeneratorConsole.csproj.CopyComplete
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\obj\Debug\netcoreapp3.1\PayslipGeneratorConsole.genruntimeconfig.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Front\PayslipGeneratorConsole\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll

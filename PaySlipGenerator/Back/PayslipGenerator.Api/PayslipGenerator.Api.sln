@@ -13,9 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayslipGenerator.Interfaces
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayslipGenerator.Repository", "..\PayslipGenerator.Repository\PayslipGenerator.Repository.csproj", "{447851EA-92FD-4E6E-BB8D-8F7D33FC7EE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayslipGeneratorConsole", "..\PayslipGeneratorConsole\PayslipGeneratorConsole.csproj", "{2766CFEB-7CA8-4D1C-B69A-293C8D0DF367}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayslipGenerator.Test", "..\PayslipGenerator.Test\PayslipGenerator.Test.csproj", "{2C624256-7823-4DFE-8D65-18FE1BA0F538}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayslipGenerator.Test", "..\PayslipGenerator.Test\PayslipGenerator.Test.csproj", "{2C624256-7823-4DFE-8D65-18FE1BA0F538}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,10 +41,6 @@ Global
 		{447851EA-92FD-4E6E-BB8D-8F7D33FC7EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{447851EA-92FD-4E6E-BB8D-8F7D33FC7EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{447851EA-92FD-4E6E-BB8D-8F7D33FC7EE2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2766CFEB-7CA8-4D1C-B69A-293C8D0DF367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2766CFEB-7CA8-4D1C-B69A-293C8D0DF367}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2766CFEB-7CA8-4D1C-B69A-293C8D0DF367}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2766CFEB-7CA8-4D1C-B69A-293C8D0DF367}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2C624256-7823-4DFE-8D65-18FE1BA0F538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2C624256-7823-4DFE-8D65-18FE1BA0F538}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C624256-7823-4DFE-8D65-18FE1BA0F538}.Release|Any CPU.ActiveCfg = Release|Any CPU

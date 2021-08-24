@@ -11,3 +11,16 @@ E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\obj\Debu
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.dll
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
 E:\MYOB -PayrollCalculator\PaySlipGenerator\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.genruntimeconfig.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.csproj.AssemblyReference.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.AssemblyInfoInputs.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.AssemblyInfo.cs
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.exe
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.deps.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.runtimeconfig.dev.json
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.dll
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\bin\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.pdb
+C:\Users\karth\OneDrive\Documents\GitHub\PayslipCalculation\PaySlipGenerator\Back\PayslipGenerator.Interfaces\obj\Debug\netcoreapp3.1\PayslipGenerator.Interfaces.genruntimeconfig.cache
